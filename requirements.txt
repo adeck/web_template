@@ -1,0 +1,7 @@
+click
+pyyaml
+sh
+logbook
+staticjinja
+markdown
+awscli
